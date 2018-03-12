@@ -1,0 +1,111 @@
+﻿@model ProjectManagementApp.Models.Projct
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string Msg = ViewBag.Msg;
+}
+
+<h2>Add / Update Project</h2>
+
+<h3 style="text-align: center"> @Msg </h3>
+
+    <form method="POST" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CodeName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CodeName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CodeName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StartDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.StartDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EndDate, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.EndDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Duration, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Duration, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Duration, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UploadFile, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+
+
+                <input type="file" name="UploadFile" id="UploadFile" />
+                @*@Html.EditorFor(model => model.UploadFile, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UploadFile, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.RadioButtonFor(model => model.Status, "Not Started", new { htmlAttributes = new { @class = "form-control" } }) Not Started <br />
+                @Html.RadioButtonFor(model => model.Status, "Started", new { htmlAttributes = new { @class = "form-control" } }) Started  <br />
+                @Html.RadioButtonFor(model => model.Status, "Completed", new { htmlAttributes = new { @class = "form-control" } }) Completed  <br />
+                @Html.RadioButtonFor(model => model.Status, "Concelled", new { htmlAttributes = new { @class = "form-control" } }) Concelled
+                @*@Html.EditorFor(model => model.Status, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+</form>
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+            <script>
+                $("#EndDate").on('change', function () {
+                    var startTime = new Date($("#StartDate").val());
+                    var endtime = new Date($("#EndDate").val());
+                    var duration = endtime - startTime;
+                    var days = Math.floor(((duration % 31536000000) % 2628000000) / 86400000);
+                    if (days > 0)
+                        $("#Duration").val(days);
+                });
+            </script>
+        }

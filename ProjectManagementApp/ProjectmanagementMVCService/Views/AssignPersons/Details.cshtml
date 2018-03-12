@@ -1,0 +1,43 @@
+﻿@model ProjectManagementApp.Models.AssignPerson
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AssignPerson</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Projct.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Projct.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AssignBy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AssignBy)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

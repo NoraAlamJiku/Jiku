@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ProjectManagementApp.Models.Comment>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-striped table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayName("Comment")
+        </th>
+
+        <th>
+            @Html.DisplayName("By")
+        </th>
+        <th>
+            @Html.DisplayName("Date Time")
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Commentt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CommentBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+
+        </tr>
+    }
+
+</table>

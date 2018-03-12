@@ -1,0 +1,237 @@
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll.config
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.pdb
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Owin.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\WebGrease.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.dll
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.pdb
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Verson1.resources
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.GenerateResource.Cache
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Verson3.resources
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.VersonZiro.resources
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.sdfds.resources
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.sdfsdfsdf.resources
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.adsadasdasdad.resources
+C:\Users\Nora_Alam\Desktop\Test\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.sddsa.resources
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.pdb
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll.config
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.pdb
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Owin.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\WebGrease.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Version1.resources
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.GenerateResource.Cache
+C:\Users\Nora_Alam\Desktop\WorkArea\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll.config
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.pdb
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Owin.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\WebGrease.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Version1.resources
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.GenerateResource.Cache
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.dll
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.pdb
+C:\Users\Anwar01\Desktop\Practics\Project Management New\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll.config
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\ProjectManagementApp.pdb
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Owin.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\WebGrease.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Optimization.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Antlr3.Runtime.pdb
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Newtonsoft.Json.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Version1.resources
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Version11.resources
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Version2.resources
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Migrations.Version3.resources
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.GenerateResource.Cache
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.dll
+C:\Users\Anwar01\Desktop\Practics\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.pdb
